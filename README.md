@@ -1,2 +1,2 @@
 # gaanaBajao
-An Audio player for Android devices
+An Audio player app for Android devices
