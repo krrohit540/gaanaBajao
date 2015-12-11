@@ -1,2 +1,2 @@
-# mp3Player (gaanaBajo)
+# gaanaBajao
 An Audio player for Android devices
